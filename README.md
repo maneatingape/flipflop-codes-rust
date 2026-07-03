@@ -10,3 +10,4 @@ Solutions for the [Flip Flop Codes](https://flipflop.slome.org/) challenge writt
 | 2 | [Rollercoaster Heights](https://flipflop.slome.org/2025/2) | [Source](src/year2025/puzzle02.rs) |
 | 3 | [Bush Salesman](https://flipflop.slome.org/2025/3) | [Source](src/year2025/puzzle03.rs) |
 | 4 | [Beach Cleanup](https://flipflop.slome.org/2025/4) | [Source](src/year2025/puzzle04.rs) |
+| 5 | [Strange Tunnels](https://flipflop.slome.org/2025/5) | [Source](src/year2025/puzzle05.rs) |
