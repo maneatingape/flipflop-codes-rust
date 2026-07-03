@@ -12,3 +12,4 @@ Solutions for the [Flip Flop Codes](https://flipflop.slome.org/) challenge writt
 | 4 | [Beach Cleanup](https://flipflop.slome.org/2025/4) | [Source](src/year2025/puzzle04.rs) |
 | 5 | [Strange Tunnels](https://flipflop.slome.org/2025/5) | [Source](src/year2025/puzzle05.rs) |
 | 6 | [Bird Spotters](https://flipflop.slome.org/2025/6) | [Source](src/year2025/puzzle06.rs) |
+| 7 | [Hyper Grids](https://flipflop.slome.org/2025/7) | [Source](src/year2025/puzzle07.rs) |
