@@ -13,5 +13,5 @@ library!(year2025
 );
 
 library!(year2026
-    puzzle01
+    puzzle01, puzzle02
 );

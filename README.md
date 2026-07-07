@@ -7,6 +7,7 @@ Solutions for the [Flip Flop Codes](https://flipflop.slome.org/) challenge writt
 | Puzzle | Description | Solution |
 | --- | --- | --- |
 | 1 | [Prologue: BitFlop Internship](https://flipflop.slome.org/2026/1) | [Source](src/year2026/puzzle01.rs) |
+| 2 | [Lasering Walls](https://flipflop.slome.org/2026/2) | [Source](src/year2026/puzzle02.rs) |
 
 ## 2025
 

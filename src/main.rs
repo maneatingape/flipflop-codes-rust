@@ -68,5 +68,5 @@ run!(year2025
 );
 
 run!(year2026
-    puzzle01
+    puzzle01, puzzle02
 );
