@@ -8,7 +8,7 @@ fn main() {
     let mut iter = args().flat_map(|arg| arg.iter_unsigned().collect::<Vec<u32>>());
     let (year, puzzle) = (iter.next(), iter.next());
 
-    let solutions = [year2025()];
+    let solutions = [year2025(), year2026()];
 
     // Filter solutions then pretty print output.
     solutions
@@ -65,4 +65,8 @@ macro_rules! run {
 
 run!(year2025
     puzzle01, puzzle02, puzzle03, puzzle04, puzzle05, puzzle06, puzzle07
+);
+
+run!(year2026
+    puzzle01
 );

@@ -16,7 +16,7 @@
 //     789
 // }
 
-// use flipflop_codes::year2025::puzzle00::*;
+// use flipflop_codes::year2026::puzzle00::*;
 //
 // const EXAMPLE: &str = "";
 //
@@ -43,6 +43,11 @@ macro_rules! test {
         pub mod $year {$(pub mod $puzzle;)*}
     }
 }
+
 test!(year2025
     puzzle01, puzzle02, puzzle03, puzzle04, puzzle05, puzzle06, puzzle07
+);
+
+test!(year2026
+    puzzle01
 );

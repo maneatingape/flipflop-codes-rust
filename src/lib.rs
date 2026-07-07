@@ -11,3 +11,7 @@ library!(util
 library!(year2025
     puzzle01, puzzle02, puzzle03, puzzle04, puzzle05, puzzle06, puzzle07
 );
+
+library!(year2026
+    puzzle01
+);

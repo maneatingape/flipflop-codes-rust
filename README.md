@@ -2,6 +2,12 @@
 
 Solutions for the [Flip Flop Codes](https://flipflop.slome.org/) challenge written in Rust.
 
+## 2026
+
+| Puzzle | Description | Solution |
+| --- | --- | --- |
+| 1 | [Prologue: BitFlop Internship](https://flipflop.slome.org/2026/1) | [Source](src/year2026/puzzle01.rs) |
+
 ## 2025
 
 | Puzzle | Description | Solution |
