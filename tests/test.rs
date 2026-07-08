@@ -49,5 +49,5 @@ test!(year2025
 );
 
 test!(year2026
-    puzzle01, puzzle02
+    puzzle01, puzzle02, puzzle03
 );
