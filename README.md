@@ -9,6 +9,7 @@ Solutions for the [Flip Flop Codes](https://flipflop.slome.org/) challenge writt
 | 1 | [Prologue: BitFlop Internship](https://flipflop.slome.org/2026/1) | [Source](src/year2026/puzzle01.rs) |
 | 2 | [Lasering Walls](https://flipflop.slome.org/2026/2) | [Source](src/year2026/puzzle02.rs) |
 | 3 | [Password Competition](https://flipflop.slome.org/2026/3) | [Source](src/year2026/puzzle03.rs) |
+| 4 | [Magic Flowerstalk](https://flipflop.slome.org/2026/4) | [Source](src/year2026/puzzle04.rs) |
 
 ## 2025
 
