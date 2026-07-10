@@ -10,6 +10,7 @@ Solutions for the [Flip Flop Codes](https://flipflop.slome.org/) challenge writt
 | 2 | [Lasering Walls](https://flipflop.slome.org/2026/2) | [Source](src/year2026/puzzle02.rs) |
 | 3 | [Password Competition](https://flipflop.slome.org/2026/3) | [Source](src/year2026/puzzle03.rs) |
 | 4 | [Magic Flowerstalk](https://flipflop.slome.org/2026/4) | [Source](src/year2026/puzzle04.rs) |
+| 5 | [One Way City](https://flipflop.slome.org/2026/5) | [Source](src/year2026/puzzle05.rs) |
 
 ## 2025
 
