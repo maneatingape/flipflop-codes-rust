@@ -12,6 +12,7 @@ Solutions for the [Flip Flop Codes](https://flipflop.slome.org/) challenge writt
 | 4 | [Magic Flowerstalk](https://flipflop.slome.org/2026/4) | [Source](src/year2026/puzzle04.rs) |
 | 5 | [One Way City](https://flipflop.slome.org/2026/5) | [Source](src/year2026/puzzle05.rs) |
 | 6 | [Gears And Lights](https://flipflop.slome.org/2026/6) | [Source](src/year2026/puzzle06.rs) |
+| 7 | [Ross's Pet Snake](https://flipflop.slome.org/2026/7) | [Source](src/year2026/puzzle07.rs) |
 
 ## 2025
 
