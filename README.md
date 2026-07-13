@@ -13,6 +13,7 @@ Solutions for the [Flip Flop Codes](https://flipflop.slome.org/) challenge writt
 | 5 | [One Way City](https://flipflop.slome.org/2026/5) | [Source](src/year2026/puzzle05.rs) |
 | 6 | [Gears And Lights](https://flipflop.slome.org/2026/6) | [Source](src/year2026/puzzle06.rs) |
 | 7 | [Ross's Pet Snake](https://flipflop.slome.org/2026/7) | [Source](src/year2026/puzzle07.rs) |
+| 8 | [The Amazing Digital Stoats](https://flipflop.slome.org/2026/8) | [Source](src/year2026/puzzle08.rs) |
 
 ## 2025
 
